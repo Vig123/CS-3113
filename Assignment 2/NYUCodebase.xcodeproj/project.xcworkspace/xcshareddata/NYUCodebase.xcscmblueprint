@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9F8063AC9A85DD6FE0BD97A363F1FA4009113548",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9F8063AC9A85DD6FE0BD97A363F1FA4009113548" : 9223372036854775807,
+    "FFE457F3DDBC6D5E7FF0997C02059E2316254F3C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8DB5505D-D1FE-4504-99C2-C078C0120BFB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9F8063AC9A85DD6FE0BD97A363F1FA4009113548" : "Assignments\/",
+    "FFE457F3DDBC6D5E7FF0997C02059E2316254F3C" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NYUCodebase",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Assignment 2\/NYUCodebase.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Quanhaoli2641\/CS-3113.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F8063AC9A85DD6FE0BD97A363F1FA4009113548"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ivansafrin\/CS3113.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FFE457F3DDBC6D5E7FF0997C02059E2316254F3C"
+    }
+  ]
+}
